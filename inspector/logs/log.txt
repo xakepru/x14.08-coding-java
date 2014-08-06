@@ -1,0 +1,7 @@
+1 vasya http://google.com
+2 kolya http://ya.ru
+3 vasya http://google.com
+4 vasya http://vkontakte.ru
+5 vasya http://vkontakte.ru
+6 vasya http://vkontakte.ru
+7 vasya http://vkontakte.ru
